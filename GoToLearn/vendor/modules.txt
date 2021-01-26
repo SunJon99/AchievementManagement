@@ -1,0 +1,6 @@
+# github.com/mattn/go-sqlite3 v1.14.6
+## explicit
+# gorm.io/driver/sqlite v1.1.4
+## explicit
+# gorm.io/gorm v1.20.12
+## explicit
